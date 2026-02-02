@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+temp/
+*.md
+download_ffmpeg.ps1
+*.bat
+test_env.py
+check_setup.py
+QUICK_FIX.md
+WINDOWS_SETUP.md
+install_ffmpeg.md
