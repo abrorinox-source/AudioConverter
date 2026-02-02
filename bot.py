@@ -454,15 +454,6 @@ if __name__ == "__main__":
     logger.info(f"Health server on port {port}")
     
     main()
-=======
-"""
-Advanced Telegram Bot for Audio Effects
-Multiple effects, progress tracking, and queue system
-"""
-import os
-import logging
-import asyncio
-from datetime import datetime
 from collections import deque
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (
