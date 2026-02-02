@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """
 Advanced Telegram Bot for Audio Effects
 Multiple effects, progress tracking, and queue system
@@ -893,6 +892,3 @@ def main():
     app.run_polling(allowed_updates=Update.ALL_TYPES)
 
 
-if __name__ == "__main__":
-    main()
->>>>>>> 92912bd1ad1e340229f03689873340418337bf9b
